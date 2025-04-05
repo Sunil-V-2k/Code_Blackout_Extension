@@ -1,6 +1,6 @@
 # battle README
 
-This is the README for your extension "battle". After writing up a brief description, we recommend including the following sections.
+This is the README for the extension "battle". After writing up a brief description, i recommend including the following sections.
 
 ## Features
 
